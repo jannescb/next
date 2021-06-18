@@ -593,9 +593,8 @@ video {
 .table {
 	display: table;
 }
-.bg-black {
-	--tw-bg-opacity: 1;
-	background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
+.\!table {
+	display: table !important;
 }
 .bg-gray-800 {
 	--tw-bg-opacity: 1;
